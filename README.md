@@ -10,7 +10,7 @@ Supports **Microsoft (Outlook/Hotmail/Live)** via native OAuth, plus **all other
 > ⚠️ **Disclaimer:** This tool is for **educational purposes only**. Use only on accounts you own or have explicit permission to test. Unauthorized access violates laws and service terms.
 
 ---
-
+![Universal Email Checker](img.png)
 ## 🚀 Features
 
 | Feature | Description |
