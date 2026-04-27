@@ -1,0 +1,7 @@
+# Ignore node_modules and large binaries
+node_modules/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
